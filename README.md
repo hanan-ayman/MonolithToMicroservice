@@ -1,0 +1,1 @@
+Moving from Monolith to Microservice using fig strangler design pattern : keep monolith app runing while extracting the microservices and make the api gateway route the requests to it to avoid the downtime
